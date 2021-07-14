@@ -1,0 +1,22 @@
+2021-07-14 08:39:55.576  INFO 12624 --- [restartedMain] c.n.community.CommunityApplication       : Starting CommunityApplication using Java 14.0.2 on DESKTOP-FHEB565 with PID 12624 (D:\Code\JAVA\community\target\classes started by dell in D:\Code\JAVA\community)
+2021-07-14 08:39:55.576 DEBUG 12624 --- [restartedMain] c.n.community.CommunityApplication       : Running with Spring Boot v2.5.2, Spring v5.3.8
+2021-07-14 08:39:55.577  INFO 12624 --- [restartedMain] c.n.community.CommunityApplication       : No active profile set, falling back to default profiles: default
+2021-07-14 08:39:56.111  INFO 12624 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2021-07-14 08:39:56.113  INFO 12624 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-07-14 08:39:56.113  INFO 12624 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.48]
+2021-07-14 08:39:56.159  INFO 12624 --- [restartedMain] o.a.c.c.C.[.[localhost].[/community]     : Initializing Spring embedded WebApplicationContext
+2021-07-14 08:39:56.159  INFO 12624 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 579 ms
+2021-07-14 08:39:56.180  INFO 7932 --- [main] com.nowcoder.community.LoggerTests       : Starting LoggerTests using Java 14.0.2 on DESKTOP-FHEB565 with PID 7932 (started by dell in D:\Code\JAVA\community)
+2021-07-14 08:39:56.190 DEBUG 7932 --- [main] com.nowcoder.community.LoggerTests       : Running with Spring Boot v2.5.2, Spring v5.3.8
+2021-07-14 08:39:56.192  INFO 7932 --- [main] com.nowcoder.community.LoggerTests       : No active profile set, falling back to default profiles: default
+2021-07-14 08:39:56.373  INFO 12624 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2021-07-14 08:39:56.447  INFO 12624 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-07-14 08:39:56.462  INFO 12624 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path '/community'
+2021-07-14 08:39:56.467  INFO 12624 --- [restartedMain] c.n.community.CommunityApplication       : Started CommunityApplication in 0.938 seconds (JVM running for 491.511)
+2021-07-14 08:39:56.470  INFO 12624 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2021-07-14 08:39:58.769  INFO 7932 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2021-07-14 08:39:59.407  INFO 7932 --- [main] com.nowcoder.community.LoggerTests       : Started LoggerTests in 3.927 seconds (JVM running for 4.809)
+2021-07-14 08:39:59.982 DEBUG 7932 --- [main] com.nowcoder.community.LoggerTests       : debug log
+2021-07-14 08:39:59.983  INFO 7932 --- [main] com.nowcoder.community.LoggerTests       : info log
+2021-07-14 08:39:59.983  WARN 7932 --- [main] com.nowcoder.community.LoggerTests       : warn log
+2021-07-14 08:39:59.983 ERROR 7932 --- [main] com.nowcoder.community.LoggerTests       : error log

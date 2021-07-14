@@ -1,0 +1,10 @@
+2021-07-14 15:45:32,064 INFO [main] c.n.c.LoggerTests [StartupInfoLogger.java:55] Starting LoggerTests using Java 14.0.2 on DESKTOP-FHEB565 with PID 23084 (started by dell in D:\Code\JAVA\community)
+2021-07-14 15:45:32,066 INFO [main] c.n.c.LoggerTests [SpringApplication.java:659] No active profile set, falling back to default profiles: default
+2021-07-14 15:45:37,750 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2021-07-14 15:45:38,232 INFO [main] c.n.c.LoggerTests [StartupInfoLogger.java:61] Started LoggerTests in 7.173 seconds (JVM running for 9.681)
+2021-07-14 15:45:38,963 INFO [main] c.n.c.LoggerTests [LoggerTests.java:23] info log
+2021-07-14 15:46:52,388 INFO [main] c.n.c.LoggerTests [StartupInfoLogger.java:55] Starting LoggerTests using Java 14.0.2 on DESKTOP-FHEB565 with PID 16500 (started by dell in D:\Code\JAVA\community)
+2021-07-14 15:46:52,393 INFO [main] c.n.c.LoggerTests [SpringApplication.java:659] No active profile set, falling back to default profiles: default
+2021-07-14 15:46:54,268 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2021-07-14 15:46:54,636 INFO [main] c.n.c.LoggerTests [StartupInfoLogger.java:61] Started LoggerTests in 2.796 seconds (JVM running for 3.667)
+2021-07-14 15:46:55,374 INFO [main] c.n.c.LoggerTests [LoggerTests.java:23] info log
